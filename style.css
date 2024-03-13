@@ -14,7 +14,7 @@ body
 }
 .section-one{
     background-color:#0A152F;
-    color: white;
+        color: white;
     padding: 20px;
     border-radius: 10px;
 }
@@ -120,6 +120,18 @@ font-size: 60px;
     background-color: orangered;
     border: none;
     border: solid black 1px;
+}
+.gitLink
+{
+    padding: 10px;
+    margin: 15px;
+    text-decoration: none;
+    color: #ED1849;
+
+}
+.gitLink:hover
+{
+    color:black;
 }
 
 
